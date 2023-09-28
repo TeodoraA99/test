@@ -4,7 +4,8 @@ import java.util.Random;
 
 public class CoinFlipping {
 
-    // AlaBala
+    // AlaBala22
+
     public static void main(String[] args) {
         // Create a Random object for generating random numbers
         Random random = new Random();
@@ -19,3 +20,4 @@ public class CoinFlipping {
         }
     }
 }
+//BabaMeca
