@@ -3,6 +3,8 @@ package operators;
 import java.util.Random;
 
 public class CoinFlipping {
+
+    // AlaBala
     public static void main(String[] args) {
         // Create a Random object for generating random numbers
         Random random = new Random();
